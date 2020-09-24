@@ -35,83 +35,97 @@ h2 {
     color: darkblue;
     border: 5px solid purple;
     font-weight: bold;
-    background-color: white;
+    background-color: whitesmoke;
 }
 
 h3 {
-    color: gold;
+    color: black;
 }
 
 ol {
-    color: goldenrod;
+    color: gold;
 }
 
 #bob1 {
     background-color: white;
-    border: 5px solid black;
+    border: 5px solid silver;
+    padding: 10px;
 }
 
 #bob2 {
     background-color: palevioletred;
     border: 5px solid white;
+    padding: 10px;
 }
 
 #bob3 {
     background-color: blueviolet;
-    border: 5px solid black;
+    border: 5px solid silver;
+    padding: 10px;
 }
 
 #bob4 {
     background-color: coral;
-    border: 5px solid black;
+    border: 5px solid silver;
+    padding: 10px;
 }
 
 #bob5 {
     background-color: darkorchid;
-    border: 5px solid black;
+    border: 5px solid silver;
+    padding: 10px;
 }
 
 #bob6 {
     background-color: darkslategrey;
-    border: 5px solid black;
+    border: 5px solid silver;
+    padding: 10px;
 }
 
 #bob7 {
     background-color: forestgreen;
-    border: 5px solid black;
+    border: 5px solid silver;
+    padding: 10px;
 }
 
 #bob8 {
     background-color: sienna;
-    border: 5px solid black;
+    border: 5px solid silver;
+    padding: 10px;
 }
 
 #bob9 {
     background-color: cornflowerblue;
     border: 5px solid white;
+    padding: 10px;
 }
 
 #bob10 {
     background-color: palevioletred;
-    border: 5px solid black;
+    border: 5px solid silver;
+    padding: 10px;
 }
 
 #bob11 {
     background-color: coral;
-    border: 5px solid black;
+    border: 5px solid silver;
+    padding: 10px;
 }
 
 #bob12 {
     background-color: forestgreen;
-    border: 5px solid black;
+    border: 5px solid silver;
+    padding: 10px;
 }
 
 #bob13 {
     background-color: darkslategrey;
-    border: 5px solid black;
+    border: 5px solid silver;
+    padding: 10px;
 }
 
 #bob14 {
     background-color: darkorchid;
-    border: 5px solid black;
+    border: 5px solid silver;
+    padding: 10px;
 }
